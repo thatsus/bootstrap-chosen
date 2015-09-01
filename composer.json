@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/bootstrap-chosen",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/bootstrap-chosen.git"
+        }
+    ]
+}
